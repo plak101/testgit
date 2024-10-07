@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
 	cout<<"hello world";
-	cout<<"lol";
+	cout<<"cc"
 }o
