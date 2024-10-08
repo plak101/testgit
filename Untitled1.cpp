@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-	cout<<"hello world";
-	cout<<"cc"
-}o
+int main()
+{
+	cout << "hello world";
+	cout << "cc"
+}
